@@ -1,3 +1,2 @@
-# silentspring2.github.io
+# Website
 
-Welcome to Fuyuan Lyu's [homepage](fuyuanlyu.github.io)
